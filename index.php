@@ -19,6 +19,6 @@
 
 <canvas class = "canvas" id="canvasId" width = '500px' height = '400px'></canvas>
 
-<script type= "text/javascript" src = "Test/Clock.js"></script>
+<script type= "text/javascript" src = "./Clock.js"></script>
 </body>
 </html>
